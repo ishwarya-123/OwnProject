@@ -1,0 +1,278 @@
+@import url('https://fonts.googleapis.com/css2?family=Sigmar&display=swap');
+
+body{
+    background-image:url('vai/nat.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.head-image{
+    background-image: url('vai/image0.webp');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.task{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.logo{
+    font-family: "Sigmar", serif;
+    font-size: 50px;
+}
+.main{
+    display: flex;
+    list-style: none;
+}
+li{
+    padding: 10px;
+}
+.aim{
+    display: flex;
+    list-style: none;
+    height: auto;
+    align-items: center;
+}
+.btn{
+    padding:10px 20px;
+    border: none;
+    border-radius: 40px;
+}
+.btn:hover{
+    color: white;
+    background-color: black;
+}
+.main1:hover{
+    color:brown;
+    
+}
+.aim1:hover{
+    color:brown ;
+}
+.click{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+
+}
+.on{
+    font-family: "Sigmar", serif;
+    font-size: 30px; 
+}
+.head{
+    margin:30px;
+    padding-top:150px;
+}
+.off{
+    height: 400px;
+    width:450px;
+    padding:10px;
+    margin-top: 50px;
+    font-size: 20px;
+    color:white;
+}
+.click:hover{
+    color:white;
+    background-color: black;
+}
+.off:hover{
+    color:white;
+    background-color: black;
+    border-radius: 40px;
+}
+.but{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+    margin-bottom:10px;
+}
+.but:hover{
+    color:white;
+    background-color: black;
+}
+.site{
+    padding: 10px 20px;
+    border: none;
+    border-radius: 40px;
+}
+.entry{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;    
+}
+.subject{
+    background-color:palegoldenrod ;
+    border-radius: 10px;
+    display: flex;
+    padding:10px;
+    align-items: center;
+    border: 3px solid;
+
+}
+.exchange{
+    margin:20px;
+    border-radius: 10px;
+}
+.subject img{
+    border-radius: 50%;
+    width:150px;
+    height:150px;
+    border: 3px solid;
+}
+.site:hover{
+    color:white;
+    background-color: black;
+}
+.outline{
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+}
+.input{
+    width: 290px;
+    background-color: black;
+    margin: 100px;
+    border: 3px solid;
+    border-radius: 30px 30px 0px 0px;
+
+}
+.free{
+    background-color:rgb(161, 151, 151);
+    width: 40px;
+    height: 40px;
+    border-radius: 100px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+.output{
+    background-color:papayawhip;
+    border-radius: 30px 30px 0px 0px;
+}
+.leno{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.sri{
+    border-radius: 30px 30px 0px 30px;
+    border:3px solid;
+}
+.let{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 200px;
+    background-image: url('vai/text.jpg');
+}
+.my{
+    display: flex;
+    flex-direction: row;
+
+}
+.book{
+    border-radius: 20px;
+    width:80px;
+    height:30px;
+    padding: 10px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin-top: 10px;
+}
+h1{
+    color: rgb(7, 6, 6);
+}
+.center{
+    margin:20px;
+    padding:50px;
+    display :flex;
+    justify-content: space-around;
+}
+.look{
+    border:3px solid;
+    background-color: black;
+
+}
+.book:hover{
+    color: white;
+    background-color: black;
+}
+.bad{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width:200px;
+    height: 50px;
+    border-radius: 10px;
+}
+.hand{
+align-items: center;
+justify-content: center;
+flex-direction: column;
+display: flex;
+}
+.board{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.hai{
+    padding: 20px;
+    width:100px;
+    height: 50px;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    margin: 10px;
+}
+.hai:hover{
+    color: white;
+    background-color: black;
+}
+.paper{
+    background-image: url('vai/fresh1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+}
+.sheet{
+    width: 350px;
+    height: 250px;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    margin-left: 850px;
+    margin-top: 50px;
+
+}
+.pen{
+    padding-top: 130px;
+    color: white;
+}
+.pencil{
+    width: 100px;
+    height: 30px;
+    border-radius: 30px;
+}
+.pencil:hover{
+color: peru;
+background-color: black;
+}
+.funny{
+    width: 850px;
+    height: 750px;
+}
+.cat{
+    color:white;
+}
+.bat{
+    color:white;
+}
+.bus{
+    color:white;
+}
+.mass{
+    color: white;
+}
